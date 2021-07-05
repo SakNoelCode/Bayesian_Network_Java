@@ -12,4 +12,8 @@ Gestor de Base de Datos: MySql (XAMPP)
 XAMPP, el Script se encuentra en la carpeta: Database de la carpeta raíz.
 3. Ejecute el programa, la clase main esta en la carpeta src/javaaplication24/JavaAplication24
 
-(https://github.com/SakNoelCode/Bayesian_Network_Java/blob/master/Images/img1.png)
+
+![Img](https://github.com/SakNoelCode/Bayesian_Network_Java/blob/master/Images/img1.png)
+![Img](https://github.com/SakNoelCode/Bayesian_Network_Java/blob/master/Images/img2.png)
+
+
